@@ -6,3 +6,8 @@ print ("Welcome to the show, " + name)
 link = input ("What is the name of the hero of time? a.Bob Saget b.Batman c.Link d.Mario")
 if link == ("c"):
     print("GG!")
+print ("Wow, you must be very good at this, " + name)
+ovg = input ("Next Question, what is the most overated video game? a.Mario b.Minecraft c.The Elder Scrolls d.Call of Duty")
+if ovg == ("d"):
+    print("Glad you agree!")
+    
