@@ -24,4 +24,4 @@ while True:
         muddy.right(90)
     muddy.right(10)   
 
-while True: random_color()
+
