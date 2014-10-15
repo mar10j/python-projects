@@ -15,13 +15,6 @@ def random_color():
 while True:
     for count in range(4):
         muddy.pencolor(random_color())
-        muddy.forward(100)
-        muddy.right(90)
-    muddy.right(10)
-    for count in range(4):
-        muddy.pencolor(random_color())
-        muddy.forward(200)
-        muddy.right(90)
-    muddy.right(10)   
-
-
+        muddy.forward(1)
+        muddy.right(1)
+    
